@@ -1,0 +1,2 @@
+# StupidLog
+StupidLog Logging Framework
