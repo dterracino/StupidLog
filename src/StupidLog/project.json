@@ -1,10 +1,10 @@
 ﻿{
-  "version": "0.1.0",
+  "version": "0.1.5",
   "description": "StupidLog Logging Framework",
   "authors": [ "kfl" ],
   "tags": [ "" ],
-  "projectUrl": "",
-  "licenseUrl": "",
+  "projectUrl": "https://github.com/puzzl3r/StupidLog",
+  "licenseUrl": "https://github.com/puzzl3r/StupidLog/blob/master/LICENSE",
 
   "dependencies": {
   },
@@ -22,6 +22,11 @@
   },
 
   "frameworks": {
-    "dnx451": { }
+    "dnx451": { },
+    "dnx452": { },
+    "dnx46": { },
+    "net451": { },
+    "net452": { },
+    "net46": { }
   }
 }
