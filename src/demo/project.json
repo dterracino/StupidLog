@@ -1,0 +1,20 @@
+﻿{
+  "version": "0.1.0",
+  "description": "demo Console Application",
+  "authors": [ "kfl" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "StupidLog": "1.0.0-*"
+  },
+
+  "commands": {
+    "demo": "demo"
+  },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}

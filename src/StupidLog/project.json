@@ -1,0 +1,27 @@
+﻿{
+  "version": "0.1.0",
+  "description": "StupidLog Logging Framework",
+  "authors": [ "kfl" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+  },
+
+  "__DISABLED_FRAMEWORK__dotnet": {
+    "dependencies": {
+      "System.Collections": "4.0.10-beta-23019",
+      "System.Linq": "4.0.0-beta-23019",
+      "System.Threading": "4.0.10-beta-23019",
+      "System.Runtime": "4.0.10-beta-23019",
+      "Microsoft.CSharp": "4.0.0-beta-23019",
+      "System.Console": "4.0.0-beta-23123",
+      "System.Runtime.Extensions": "4.0.0-beta-23019"
+    }
+  },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}
